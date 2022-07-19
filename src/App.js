@@ -51,14 +51,14 @@ function App() {
     return (
         <div className="App">
             <Input.Group compact className="input-group">
-                <Select defaultValue="Sign Up" style={
+                <Select defaultValue="Everywhere" style={
                     {
                         width: '100px',
                     }
                 }>
-                    <Option value="Sign Up">Everywhere</Option>
-                    <Option value="Sign In">Whole words</Option>
-                    <Option value="Sign In">In description</Option>
+                    <Option value="Everywhere">Everywhere</Option>
+                    <Option value="Whole words">Whole words</Option>
+                    <Option value="In description">In description</Option>
                   </Select>
                   <Input
                       placeholder="Enter your data"

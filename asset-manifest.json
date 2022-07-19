@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/app-unicorn-cards/static/css/main.e0614826.css",
-    "main.js": "/app-unicorn-cards/static/js/main.eb62562d.js",
+    "main.js": "/app-unicorn-cards/static/js/main.c62e0e03.js",
     "index.html": "/app-unicorn-cards/index.html",
     "main.e0614826.css.map": "/app-unicorn-cards/static/css/main.e0614826.css.map",
-    "main.eb62562d.js.map": "/app-unicorn-cards/static/js/main.eb62562d.js.map"
+    "main.c62e0e03.js.map": "/app-unicorn-cards/static/js/main.c62e0e03.js.map"
   },
   "entrypoints": [
     "static/css/main.e0614826.css",
-    "static/js/main.eb62562d.js"
+    "static/js/main.c62e0e03.js"
   ]
 }

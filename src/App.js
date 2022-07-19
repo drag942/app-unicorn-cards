@@ -7,9 +7,7 @@ import {
 import {FileImageOutlined, SearchOutlined} from '@ant-design/icons';
 import {useCallback, useState} from "react";
 
-
 const { Option } = Select;
-
 
 const Tags = ({tags, handleClose}) => {
     return (
@@ -58,11 +56,12 @@ function App() {
                         width: '100px',
                     }
                 }>
-                    <Option value="Sign Up">Sign Up</Option>
-                    <Option value="Sign In">Sign In</Option>
+                    <Option value="Sign Up">Everywhere</Option>
+                    <Option value="Sign In">Whole words</Option>
+                    <Option value="Sign In">In description</Option>
                   </Select>
                   <Input
-                      placeholder="input search text"
+                      placeholder="Enter your data"
                       suffix={<SearchOutlined />}
                       style={
                           {

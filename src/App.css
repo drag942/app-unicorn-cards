@@ -1,0 +1,19 @@
+.App {
+  max-width: 1220px;
+  margin: auto;
+  padding-top: 200px;
+}
+
+.input-group .ant-tag {
+  height: 2rem;
+  font-size: 14px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: inline;
+  margin-left: 5px;
+}
+
+
+
+
+
